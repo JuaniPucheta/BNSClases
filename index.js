@@ -39,8 +39,8 @@ const PORT = 5000;
 const dbConfig = {
     host: 'localhost',
     user: 'root',
-    password: 'root',
-    database: 'test_bns',
+    password: '',
+    database: 'cursonode2023',
 };
 
 app.use(express.json());
